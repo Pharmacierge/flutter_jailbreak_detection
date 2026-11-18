@@ -38,7 +38,6 @@ android {
         main.java.srcDirs += 'src/main/kotlin'
     }
     defaultConfig {
-        targetSdk 36
         minSdk 17
     }
 }
